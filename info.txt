@@ -1,0 +1,3 @@
+Creating one(Email,LHS) to Many(Accounts,RHS) relationship
+
+
